@@ -1,4 +1,4 @@
-# Customer & Transaction Data Cleaning in Google Sheets
+# Sales Analytics in Google Sheets
 
 ## Project Overview
 
