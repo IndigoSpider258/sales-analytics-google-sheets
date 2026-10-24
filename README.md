@@ -6,6 +6,11 @@ This project is a recreation of a Google Sheets tutorial by Nikita Tymoshenko fr
 
 The project follows the original tutorial and uses the datasets provided in the accompanying learning materials. The goal was to practice data cleaning, standardization, and enrichment techniques in Google Sheets.
 
+## Project Files
+
+**Google Sheets:** View the complete workbook https://docs.google.com/spreadsheets/d/1p9dsswYweNik2EWBT1nf6OQW3VpwWTBxqFsbQHGlCBA/edit?gid=0#gid=0
+**Excel workbook:** Download the .xlsx file from this repository to explore the datasets and transformations offline.
+
 ## Data Sources
 
 - **Tutorial:** [Nikita Tymoshenko — ION LAB](https://www.youtube.com/watch?v=gYjQRW6N6Ws)
