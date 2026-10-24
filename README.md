@@ -9,6 +9,7 @@ The project follows the original tutorial and uses the datasets provided in the 
 ## Project Files
 
 **Google Sheets:** View the complete workbook https://docs.google.com/spreadsheets/d/1p9dsswYweNik2EWBT1nf6OQW3VpwWTBxqFsbQHGlCBA/edit?gid=0#gid=0
+
 **Excel workbook:** Download the .xlsx file from this repository to explore the datasets and transformations offline.
 
 ## Data Sources
